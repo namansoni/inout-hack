@@ -12,8 +12,8 @@ cd inout-hack
 npm install
 ```
 
-2. Run the server
+2. Run the server 
 
 `npm start`
 
-3. Goto the web address through Chrome/Firefox
+3. Goto the web address through Chrome/Firefox/safari or any web browser
